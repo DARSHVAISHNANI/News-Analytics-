@@ -7,7 +7,7 @@ This project performs news analysis by scraping articles from multiple news webs
 
 News articles are scraped from:
 
-CIO
+CIO - [WebScraping of CIO.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/025007177c9a9d205caa694b62f30f7ab56e4de6/Web%20Scraping%20of%20CIO%20webite.ipynb)
 
 Gujarat Samachar
 
