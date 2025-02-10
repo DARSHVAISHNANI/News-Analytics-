@@ -9,13 +9,13 @@ News articles are scraped from:
 
 CIO - [WebScraping of CIO.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/025007177c9a9d205caa694b62f30f7ab56e4de6/Web%20Scraping%20of%20CIO%20webite.ipynb)
 
-Gujarat Samachar
+Gujarat Samachar - [Web Scraping of Gujarat Samachar.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/1eeac133160b36237ff75fc4e1242a6ed76d932d/Web%20Scraping%20of%20Gujarat%20Samachar.ipynb)
 
-Moneycontrol
+Moneycontrol - [Web Scraping of Money Control.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/1eeac133160b36237ff75fc4e1242a6ed76d932d/Web%20Scraping%20of%20Money%20Control.ipynb)
 
-Times of India (TOI)
+Times of India (TOI) - [Web Scraping of TOI.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/1eeac133160b36237ff75fc4e1242a6ed76d932d/Web%20Scraping%20of%20TOI.ipynb)
 
-The Indian Express
+The Indian Express - [Web Scraping of The India Express Website.ipynb](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/1eeac133160b36237ff75fc4e1242a6ed76d932d/Web%20Scraping%20of%20The%20India%20Express%20Website.ipynb)
 
 ### 🔍 Features
 
@@ -32,3 +32,7 @@ NLP Libraries: NLTK, spaCy, Scikit-learn, Gensim
 Machine Learning: LDA, TF-IDF, Sentiment Analysis Models
 
 Visualization: Gradio
+
+### Code File for the Gradio Interface & Whole Project Pipeline
+
+[NLP News Analysis code](https://github.com/DARSHVAISHNANI/News-Analytics-/blob/1eeac133160b36237ff75fc4e1242a6ed76d932d/NLP%20final%20code%20for%20news%20analysis.ipynb)
